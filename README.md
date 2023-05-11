@@ -1,2 +1,2 @@
 # sample
-sample pro
+sample pro application
